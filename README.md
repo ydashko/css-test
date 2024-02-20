@@ -1,7 +1,3 @@
 # css-test
 
-cards
-
-grids
-
-reverse engeniering with react components
+cards, grids, reverse engineering with react components
